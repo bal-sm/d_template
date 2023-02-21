@@ -1,0 +1,5 @@
+# Enter commits that you want to ignore while git blame-ing
+# e.g.
+#
+# Formatted with black.
+# 123qwe456rty..
